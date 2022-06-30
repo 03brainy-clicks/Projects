@@ -1,15 +1,15 @@
                                                                                  # Projects
 
-##PORTFOLIO SITE:-
-##LINK:- chandrakantkushwah.com
+PORTFOLIO SITE:-
+LINK:- chandrakantkushwah.com
 
-#####project 1:-
-#####link:- https://csk-react-weather.netlify.app
-#####tech-stack:- weather app using react.js, openweather app api ,axios
+project 1:-
+link:- https://csk-react-weather.netlify.app
+tech-stack:- weather app using react.js, openweather app api ,axios
 ---
-#####project 2:-
-#####link:- https://csk-react-github.netlify.app
-#####tech-stack:- github search app react.js, github api , firebase, axios
+project 2:-
+link:- https://csk-react-github.netlify.app
+tech-stack:- github search app react.js, github api , firebase, axios
 ---
 project 3:-
 link:- https://csk-react-calculator.netlify.app
